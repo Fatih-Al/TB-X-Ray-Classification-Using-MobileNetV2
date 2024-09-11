@@ -1,0 +1,9 @@
+Training Dataset is a combination if 3 Dataset 
+1st from TawsifurRahman on Kaggle, 2nd from shenzen, and the third from Montgomery
+With total amount of data is 5000 data, with 3906 dataset Normal, and 1094 dataset Tuberculosis
+Dataset can be downloaded here :
+https://drive.google.com/uc?export=download&confirm=pbef&id=1FqPb7Aq4Jd6KQoybA2B_fH7aG30bIBN7
+
+Testing DataSet is gained from local hospital, 
+Testing DataSet can be downloaded here :
+https://drive.google.com/uc?export=download&confirm=pbef&id=1dZIED44bePAO2F8zgACEmc8O_C1fOSKG
